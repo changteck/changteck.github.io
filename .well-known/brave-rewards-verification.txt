@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: changteck.github.io
+Token: ea57a2fcc704682ef1f1693f02069f89a9bd8aa0de592da40af3f910c761607c
