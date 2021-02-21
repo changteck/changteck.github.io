@@ -965,6 +965,7 @@ padding-bottom:0px;
 }
 .blog .blog-item-inner .blog-info .blog-description{
 	font-size: 16px;
+	font-style: italic;
 	line-height: 25px;
 	color:#504e70;
 	font-weight: 400;
